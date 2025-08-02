@@ -49,7 +49,7 @@ I’m **Shyam Bhatt**, an MCA student passionate about data analytics, BI tools,
 
 ## 📤 PDF Report
 
-📄 [Click here to view the final project report]()
+📄 [Click here to view the final project report](https://github.com/Shyam-Bhatt/Credit_card_financial_Dashboard/blob/main/credit%20card%20power%20bi%20report.pdf)
 
 ---
 
